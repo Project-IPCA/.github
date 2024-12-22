@@ -1,6 +1,6 @@
 # 💻 IPCA
 
-<img width="1663" alt="image" src="https://github.com/user-attachments/assets/59c20b6e-8750-4acd-b0bf-883aedafaeb2" />
+<img width="1660" alt="image" src="https://github.com/user-attachments/assets/935eda3e-6973-45e7-8664-8da1ee811c0b" />
 <br>
 <br>
 This project is part of the Project 1 and Project 2 courses at KMITL. IPCA is a web application designed for managing programming labs in courses like Computer Programming, Data Structure, and more. Inspired by the existing platforms, PLMS (the original version) and PLMS 1.0 (an updated version developed by previous students), we revamped the entire tech stack and added new features to improve functionality and user experience.
