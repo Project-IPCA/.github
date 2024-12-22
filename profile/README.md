@@ -17,6 +17,22 @@ This project is part of the Project 1 and Project 2 courses at KMITL. IPCA is a 
 ## 📚 Wiki
 - [Release Notes](https://github.com/Project-IPCA/wiki/blob/master/releases/RELEASES.md)
 
+## 🚧 Roadmap
+- [ ] Improve UX/UI for better user experience and interface design.
+- [ ] Support for two languages: Thai and English.
+- [ ] Add C language compiler for coding exercises.
+- [ ] Implement Exam Mode for assessments and exams.
+- [ ] Create a dashboard for data visualization.
+- [ ] Introduce a new user type called Executive for executives to view overview data.
+- [ ] Migrate the service worker from Go to Rust for better performance and efficiency.
+- [ ] Integrate AI to generate and select coding problems.
+- [ ] Provide a problem pool for practice before exams or for self-improvement.
+- [ ] Implement a hint system for solving problems, possibly with a penalty (e.g., deducting 1 point for using a hint).
+- [ ] Add a ranking system to track user performance.
+- [ ] Display code performance metrics, such as execution time, memory usage, and more.
+- [ ] Develop a Playground feature for an online compiler, similar to Programiz.
+- [ ] Provide solutions for coding problems to help users understand the correct approach.
+- [ ] Offer lessons for each topic that users can learn directly on the website.
 
 ## 🤝 Contributors
 <div>
