@@ -16,6 +16,10 @@ This project is part of the Project 1 and Project 2 courses at KMITL. IPCA is a 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"  />
 </p>
 
+## 🧩 Application Architecture
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/987f08a8-93e9-46ee-87f6-1a87f81b215a" />
+
+
 ## 🚧 Roadmap
 - [ ] Improve UX/UI for better user experience and interface design.
 - [ ] Support for two languages: Thai and English.
