@@ -21,8 +21,8 @@ This project is part of the Project 1 and Project 2 courses at KMITL. IPCA is a 
 
 
 ## 🚧 Roadmap
+- [x] Support for two languages: Thai and English.
 - [ ] Improve UX/UI for better user experience and interface design.
-- [ ] Support for two languages: Thai and English.
 - [ ] Add C language compiler for coding exercises.
 - [ ] Implement Exam Mode for assessments and exams.
 - [ ] Create a dashboard for data visualization.
