@@ -23,10 +23,10 @@ This project is part of the Project 1 and Project 2 courses at KMITL. IPCA is a 
 ## 🚧 Roadmap
 - [x] Support for two languages: Thai and English.
 - [x] Introduce a new user type called Executive for executives to view overview data.
+- [x] Create a dashboard for data visualization.
 - [ ] Improve UX/UI for better user experience and interface design.
 - [ ] Add C language compiler for coding exercises.
 - [ ] Implement Exam Mode for assessments and exams.
-- [ ] Create a dashboard for data visualization.
 - [ ] Migrate the service worker from Go to Rust for better performance and efficiency.
 - [ ] Integrate AI to generate and select coding problems.
 - [ ] Provide a problem pool for practice before exams or for self-improvement.
